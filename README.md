@@ -16,6 +16,7 @@ Trying to solve at least **1 problem every day**
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +25,5 @@ Trying to solve at least **1 problem every day**
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

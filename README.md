@@ -19,6 +19,7 @@ Trying to solve at least **1 problem every day**
 | [0283-move-zeroes](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Trying to solve at least **1 problem every day**
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |

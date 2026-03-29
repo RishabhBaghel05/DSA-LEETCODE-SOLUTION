@@ -42,4 +42,8 @@ Trying to solve at least **1 problem every day**
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 <!---LeetCode Topics End-->

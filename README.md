@@ -41,15 +41,18 @@ Trying to solve at least **1 problem every day**
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0349-intersection-of-two-arrays) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |

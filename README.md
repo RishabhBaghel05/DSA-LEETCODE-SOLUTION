@@ -51,10 +51,15 @@ Trying to solve at least **1 problem every day**
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RishabhBaghel05/DSA-LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
